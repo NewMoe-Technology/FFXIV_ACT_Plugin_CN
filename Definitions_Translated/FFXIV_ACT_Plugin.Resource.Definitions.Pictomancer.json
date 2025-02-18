@@ -1,0 +1,35 @@
+{
+    "actions":[
+        { "875a":"\u706B\u708E\u4E4B\u7EA2", "damage":[ { "potency":0 } ] },
+        { "875b":"\u75BE\u98CE\u4E4B\u7EFF", "damage":[ { "potency":0 } ] },
+        { "875c":"\u6D41\u6C34\u4E4B\u84DD", "damage":[ { "potency":0 } ] },
+        { "8760":"\u70C8\u708E\u4E4B\u7EA2", "damage":[ { "potency":0 } ] },
+        { "8774":"\u83AB\u53E4\u529B\u6FC0\u6D41", "damage":[ { "potency":0 } ] },
+        { "876e":"\u7ED2\u7403\u6784\u60F3", "damage":[ { "potency":0 } ] },
+        { "876f":"\u7FC5\u8180\u6784\u60F3", "damage":[ { "potency":0 } ] },
+        { "8761":"\u70C8\u98CE\u4E4B\u7EFF", "damage":[ { "potency":0 } ] },
+        { "8762":"\u6FC0\u6C34\u4E4B\u84DD", "damage":[ { "potency":0 } ] },
+        { "8776":"\u91CD\u9524\u6572\u7AE0", "damage":[ { "potency":0 } ] },
+        { "875d":"\u51B0\u7ED3\u4E4B\u84DD\u9752", "damage":[ { "potency":0 } ] },
+        { "8763":"\u51B0\u51BB\u4E4B\u84DD\u9752", "damage":[ { "potency":0 } ] },
+        { "875e":"\u98DE\u77F3\u4E4B\u7EAF\u9EC4", "damage":[ { "potency":0 } ] },
+        { "875f":"\u95EA\u96F7\u4E4B\u54C1\u7EA2", "damage":[ { "potency":0 } ] },
+        { "8764":"\u575A\u77F3\u4E4B\u7EAF\u9EC4", "damage":[ { "potency":0 } ] },
+        { "8765":"\u9707\u96F7\u4E4B\u54C1\u7EA2", "damage":[ { "potency":0 } ] },
+        { "8766":"\u795E\u5723\u4E4B\u767D", "damage":[ { "potency":0 } ] },
+        { "8777":"\u91CD\u9524\u63A0\u5237", "damage":[ { "potency":0 } ] },
+        { "8778":"\u91CD\u9524\u629B\u5149", "damage":[ { "potency":0 } ] },
+        { "8767":"\u5F57\u661F\u4E4B\u9ED1", "damage":[ { "potency":0 } ] },
+        { "8780":"\u5F69\u8679\u70B9\u6EF4", "damage":[ { "potency":0 } ] },
+        { "8770":"\u517D\u722A\u6784\u60F3", "damage":[ { "potency":0 } ] },
+        { "8771":"\u5C16\u7259\u6784\u60F3", "damage":[ { "potency":0 } ] },
+        { "8775":"\u9A6C\u8482\u6069\u60E9\u7F5A", "damage":[ { "potency":0 } ] },
+        { "8779":"\u5929\u661F\u68F1\u5149", "damage":[ { "potency":0 } ], "heal":[ { "potency":400 } ] }
+    ],
+    "job":"pictomancer",
+    "statuseffects":[
+        { "e66":"\u5766\u57F9\u62C9\u6D82\u5C42", "damageshield":{ "amount":20, "type":"TargetHpPercent" } },
+        { "e65":"\u661F\u7A7A\u6784\u60F3", "potency":[ { "amount":5, "type":"DamageDoneMultiplier" } ] },
+        { "e67":"\u6CB9\u6027\u5766\u57F9\u62C9\u6D82\u5C42", "damageshield":{ "amount":10, "type":"TargetHpPercent" } }
+    ]
+}

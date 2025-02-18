@@ -1,0 +1,38 @@
+{
+    "actions":[
+        { "8D":"\u706B\u708E", "damage":[ { "potency":0 } ] },
+        { "8E":"\u51B0\u7ED3", "damage":[ { "potency":0 } ] },
+        { "90":"\u95EA\u96F7", "damage":[ { "potency":100 } ] },
+        { "92":"\u51B0\u51BB", "damage":[ { "potency":0 } ] },
+        { "9C":"\u5D29\u6E83", "damage":[ { "potency":0 } ] },
+        { "93":"\u70C8\u708E", "damage":[ { "potency":0 } ] },
+        { "1D17":"\u9707\u96F7", "damage":[ { "potency":60 } ] },
+        { "98":"\u7206\u708E", "damage":[ { "potency":0 } ] },
+        { "9A":"\u51B0\u5C01", "damage":[ { "potency":0 } ] },
+        { "9F":"\u7384\u51B0", "damage":[ { "potency":0 } ] },
+        { "99":"\u66B4\u96F7", "damage":[ { "potency":120 } ] },
+        { "A2":"\u6838\u7206", "damage":[ { "potency":0 } ] },
+        { "DF8":"\u51B0\u6F88", "damage":[ { "potency":0 } ] },
+        { "DF9":"\u70BD\u708E", "damage":[ { "potency":0 } ] },
+        { "1CFC":"\u9739\u96F7", "damage":[ { "potency":80 } ] },
+        { "1CFE":"\u79FD\u6D4A", "damage":[ { "potency":600, "targetindex":0 }, { "potency":240 } ] },
+        { "4079":"\u7EDD\u671B", "damage":[ { "potency":0 } ] },
+        { "407B":"\u5F02\u8A00", "damage":[ { "potency":880 } ] },
+        { "64C2":"\u9AD8\u70C8\u708E", "damage":[ { "potency":0 } ] },
+        { "64C3":"\u9AD8\u51B0\u51BB", "damage":[ { "potency":0 } ] },
+        { "64C5":"\u6096\u8BBA", "damage":[ { "potency":520 } ] },
+        { "907a":"\u9AD8\u95EA\u96F7", "damage":[ { "potency":150 } ] },
+        { "907b":"\u9AD8\u9707\u96F7", "damage":[ { "potency":100 } ] },
+        { "907d":"\u8000\u661F", "damage":[ { "potency":0 } ] }
+    ],
+    "job":"black mage",
+    "statuseffects":[
+        { "A1":"\u95EA\u96F7", "timeproc":{ "damagetype":"magic", "maxticks":8, "potency":45, "type":"dot" } },
+        { "A2":"\u9707\u96F7", "timeproc":{ "damagetype":"magic", "maxticks":6, "potency":30, "type":"dot" } },
+        { "A3":"\u66B4\u96F7", "timeproc":{ "damagetype":"magic", "maxticks":9, "potency":50, "type":"dot" } },
+        { "4BA":"\u9739\u96F7", "timeproc":{ "damagetype":"magic", "maxticks":7, "potency":35, "type":"dot" } },
+        { "f1f":"\u9AD8\u95EA\u96F7", "timeproc":{ "damagetype":"magic", "maxticks":10, "potency":60, "type":"dot" } },
+        { "f20":"\u9AD8\u9707\u96F7", "timeproc":{ "damagetype":"magic", "maxticks":8, "potency":40, "type":"dot" } },
+        { "A8":"\u9B54\u7F69", "damageshield":{ "amount":30, "type":"TargetHpPercent" } }
+    ]
+}

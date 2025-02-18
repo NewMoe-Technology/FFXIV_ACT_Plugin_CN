@@ -1,0 +1,20 @@
+{
+    "actions":[
+        { "331":"\u9646\u884C\u9E1F\u5F3A\u51FB", "damage":[ { "potency":150 } ] },
+        { "333":"\u9646\u884C\u9E1F\u8E22\u51FB", "damage":[ { "potency":130 } ] },
+        { "334":"\u9646\u884C\u9E1F\u540E\u649E", "damage":[ { "potency":150 } ] },
+        { "335":"\u9646\u884C\u9E1F\u7206\u53D1", "damage":[ { "potency":170 } ] },
+        { "336":"\u9646\u884C\u9E1F\u51B2\u523A", "damage":[ { "potency":130 } ] },
+        { "337":"\u9646\u884C\u9E1F\u731B\u5544", "damage":[ { "potency":130 } ] },
+        { "338":"\u9646\u884C\u9E1F\u88C2\u65A9", "damage":[ { "potency":150 } ] },
+        { "339":"\u9646\u884C\u9E1F\u533B\u6CBB", "heal":[ { "potency":150 } ] },
+        { "33B":"\u9646\u884C\u9E1F\u6CBB\u7597", "heal":[ { "potency":300 } ] }
+    ],
+    "job":"chocobo",
+    "statuseffects":[
+        { "EC":"\u9646\u884C\u9E1F\u731B\u5544", "timeproc":{ "damagetype":"physical", "maxticks":6, "potency":20, "type":"dot" } },
+        { "ED":"\u9646\u884C\u9E1F\u518D\u751F", "timeproc":{ "maxticks":6, "potency":25, "type":"hot" } },
+        { "EE":"\u9646\u884C\u9E1F\u6CE2\u6D9B", "potency":[ { "amount":30, "type":"HealDoneMultiplier" } ] },
+        { "3F":"\u53D7\u4F24\u51CF\u8F7B", "potency":[ { "amount":-15, "type":"DamageReceivedMultiplier" } ] }
+    ]
+}

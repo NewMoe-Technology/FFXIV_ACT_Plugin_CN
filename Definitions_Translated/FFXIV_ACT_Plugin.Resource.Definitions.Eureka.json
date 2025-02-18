@@ -1,0 +1,20 @@
+{
+    "actions":[],
+    "job":"eureka",
+    "statuseffects":[
+        { "65F":"\u672F\u58EB\u7684\u8BB0\u5FC6", "potency":[ { "amount":60, "limittodamagetype":"Magic", "type":"DamageDoneMultiplier" } ] },
+        { "660":"\u6597\u58EB\u7684\u8BB0\u5FC6", "potency":[ { "amount":40, "type":"DamageDoneMultiplier" } ] },
+        { "664":"\u6B66\u4EBA\u7684\u8BB0\u5FC6", "potency":[ { "amount":20, "type":"DamageDoneMultiplier" } ] },
+        { "665":"\u65A5\u5019\u7684\u8BB0\u5FC6", "potency":[ { "amount":-5, "type":"DamageDoneMultiplier" } ] },
+        { "666":"\u5723\u9A91\u58EB\u7684\u8BB0\u5FC6", "potency":[ { "amount":-5, "type":"DamageDoneMultiplier" } ] },
+        { "678":"\u84C4\u529B", "potency":[ { "amount":30, "isstacked":true, "type":"DamageDoneMultiplier" } ] },
+        { "66E":"\u6587\u7406\u52C7\u6C14", "potency":[ { "amount":10, "type":"DamageDoneMultiplier" } ] },
+        { "674":"\u9B54\u6CD5\u7206\u53D1", "potency":[ { "amount":1, "isstacked":true, "limittodamagetype":"Magic", "type":"DamageDoneMultiplier" } ] },
+        { "675":"\u6587\u7406\u53CC\u5203\u5251", "potency":[ { "amount":15, "limittodamagetype":"Physical", "type":"DamageDoneMultiplier" } ] },
+        { "6CB":"\u8D24\u8005\u7684\u8BB0\u5FC6", "potency":[ { "amount":35, "limittodamagetype":"Magic", "type":"DamageDoneMultiplier" } ] },
+        { "6CC":"\u5251\u8C6A\u7684\u8BB0\u5FC6", "potency":[ { "amount":30, "limittodamagetype":"Magic", "type":"DamageDoneMultiplier" } ] },
+        { "6CD":"\u5F13\u5723\u7684\u8BB0\u5FC6", "potency":[ { "amount":25, "limittodamagetype":"Physical", "type":"DamageDoneMultiplier" } ] },
+        { "913":"\u5438\u8840\u9B3C\u7684\u836F", "reactiveproc":{ "type":"HealOnDamageDealt" } },
+        { "914":"\u72FC\u4EBA\u7684\u836F", "reactiveproc":{ "type":"HealOnDamageDealt" } }
+    ]
+}

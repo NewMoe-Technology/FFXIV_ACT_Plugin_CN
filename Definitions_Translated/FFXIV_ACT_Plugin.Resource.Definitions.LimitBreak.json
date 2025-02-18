@@ -1,0 +1,12 @@
+{
+    "actions":[],
+    "job":"limit break",
+    "statuseffects":[
+        { "C2":"\u94DC\u5899\u94C1\u76FE", "potency":[ { "amount":-20, "type":"damagereceivedmultiplier" } ] },
+        { "C3":"\u575A\u5B88\u8981\u585E", "potency":[ { "amount":-40, "type":"damagereceivedmultiplier" } ] },
+        { "C4":"\u7EC8\u6781\u5821\u5792", "potency":[ { "amount":-80, "type":"damagereceivedmultiplier" } ] },
+        { "35F":"\u539F\u521D\u5927\u5730", "potency":[ { "amount":-80, "type":"damagereceivedmultiplier" } ] },
+        { "360":"\u6697\u9ED1\u4E4B\u529B", "potency":[ { "amount":-80, "type":"damagereceivedmultiplier" } ] },
+        { "78B":"\u7075\u9B42\u4E4B\u9752", "potency":[ { "amount":-80, "type":"damagereceivedmultiplier" } ] }
+    ]
+}

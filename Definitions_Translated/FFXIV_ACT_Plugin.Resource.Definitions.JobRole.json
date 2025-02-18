@@ -1,0 +1,20 @@
+{
+    "actions":[
+        { "1D6F":"\u96EA\u4EC7", "damage":[ { "potency":210 } ] },
+        { "1D75":"\u5185\u4E39", "heal":[ { "potency":800 } ] },
+        { "5750":"\u5931\u4F20\u8000\u661F", "damage":[ { "potency":300 } ] }
+    ],
+    "job":"job role",
+    "statuseffects":[
+        { "988":"\u5931\u4F20\u8000\u661F", "timeproc":{ "damagetype":"magic", "maxticks":"20", "potency":"350", "type":"dot" } },
+        { "4A7":"\u94C1\u58C1", "potency":[ { "amount":-20, "type":"DamageReceivedMultiplier" } ] },
+        { "4A9":"\u96EA\u4EC7", "potency":[ { "amount":-10, "type":"damagedonemultiplier" } ] },
+        { "31":"\u5F3A\u5316\u836F", "potency":[ { "amount":15, "type":"damagedonemultiplier" }, { "amount":10, "type":"healdonemultiplier" } ] },
+        { "2a":"\u8D85\u8D8A\u4E4B\u529B", "potency":[ { "amount":0, "type":"damagedonemultiplier" }, { "amount":0, "type":"HealDoneMultiplier" } ] },
+        { "2b":"\u8870\u5F31", "potency":[ { "amount":-25, "type":"damagedonemultiplier" }, { "amount":-25, "type":"HealDoneMultiplier" } ] },
+        { "2c":"\u6FD2\u6B7B", "potency":[ { "amount":-50, "type":"damagedonemultiplier" }, { "amount":-50, "type":"HealDoneMultiplier" } ] },
+        { "54":"\u6D74\u8840", "reactiveproc":{ "type":"HealOnDamageDealt" } },
+        { "4ab":"\u7275\u5236", "potency":[ { "amount":-10, "limittodamagetype":"physical", "type":"damagedonemultiplier" }, { "amount":-5, "limittodamagetype":"magic", "type":"damagedonemultiplier" } ] },
+        { "4b3":"\u660F\u4E71", "potency":[ { "amount":-5, "limittodamagetype":"physical", "type":"damagedonemultiplier" }, { "amount":-10, "limittodamagetype":"magic", "type":"damagedonemultiplier" } ] }
+    ]
+}

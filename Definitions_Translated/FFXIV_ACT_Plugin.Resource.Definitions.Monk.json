@@ -1,0 +1,43 @@
+{
+    "actions":[
+        { "35":"\u8FDE\u51FB", "damage":[ { "potency":0 } ] },
+        { "36":"\u6B63\u62F3", "damage":[ { "potency":0 } ] },
+        { "38":"\u5D29\u62F3", "damage":[ { "potency":0 } ] },
+        { "40":"\u94C1\u5C71\u9760", "damage":[ { "potency":180 } ] },
+        { "3D":"\u53CC\u638C\u6253", "damage":[ { "potency":420 } ] },
+        { "3E":"\u7834\u574F\u795E\u51B2", "damage":[ { "potency":0 } ] },
+        { "42":"\u7834\u788E\u62F3", "damage":[ { "potency":0 } ] },
+        { "46":"\u5730\u70C8\u52B2", "damage":[ { "potency":150 } ] },
+        { "64a3":"\u7A7A\u9E23\u62F3", "damage":[ { "potency":100 } ] },
+        { "4059":"\u56DB\u9762\u811A", "damage":[ { "potency":140 } ] },
+        { "4A":"\u53CC\u9F99\u811A", "damage":[ { "potency":320 } ] },
+        { "DDB":"\u9634\u9633\u6597\u6C14\u65A9", "damage":[ { "potency":400 } ] },
+        { "64a4":"\u5FC5\u6740\u6280", "damage":[ { "potency":0 } ] },
+        { "DD7":"\u6597\u9B42\u65CB\u98CE\u811A", "damage":[ { "potency":1200, "targetindex":0 }, { "potency":600 } ] },
+        { "DD9":"\u82CD\u6C14\u70AE", "damage":[ { "potency":800, "targetindex":0 }, { "potency":240 } ] },
+        { "64a5":"\u7FFB\u5929\u811A", "damage":[ { "potency":600 } ] },
+        { "651a":"\u7206\u88C2\u811A", "damage":[ { "potency":600, "targetindex":0 }, { "potency":180 } ] },
+        { "405A":"\u4E07\u8C61\u6597\u6C14\u5708", "damage":[ { "potency":200 } ] },
+        { "405C":"\u516D\u5408\u661F\u5BFC\u811A", "damage":[ { "potency":0 } ] },
+        { "64a7":"\u7834\u574F\u795E\u811A", "damage":[ { "potency":120 } ] },
+        { "64a8":"\u51E4\u51F0\u821E", "damage":[ { "potency":900, "targetindex":0 }, { "potency":270 } ] },
+        { "64a9":"\u68A6\u5E7B\u6597\u821E", "damage":[ { "potency":1500, "targetindex":0 }, { "potency":750 } ] },
+        { "9050":"\u91D1\u521A\u5468\u5929", "heal":[ { "potency":300 } ] },
+        { "9051":"\u733F\u821E\u8FDE\u51FB", "damage":[ { "potency":0 } ] },
+        { "9052":"\u9F99\u989A\u6B63\u62F3", "damage":[ { "potency":0 } ] },
+        { "9053":"\u8C79\u88AD\u5D29\u62F3", "damage":[ { "potency":0 } ] },
+        { "9054":"\u771F\u7A7A\u6CE2", "damage":[ { "potency":900, "targetindex":0 }, { "potency":270 } ] },
+        { "9055":"\u7EDD\u7A7A\u62F3", "damage":[ { "potency":900, "targetindex":0 }, { "potency":450 } ] },
+        { "9056":"\u4E7E\u5764\u6597\u6C14\u5F39", "damage":[ { "potency":1200, "targetindex":0 }, { "potency":600 } ] }
+    ],
+    "job":"monk",
+    "statuseffects":[
+        { "65":"\u53CC\u638C\u6253", "potency":[ { "amount":15, "type":"damagedonemultiplier" } ] },
+        { "66":"\u771F\u8A00", "potency":[ { "amount":10, "type":"healreceivemultiplier" } ] },
+        { "bb9":"\u529F\u529B", "potency":[ { "amount":0, "amountbyte":2, "type":"damagedonemultiplier" } ] },
+        { "49b":"\u91D1\u521A\u6781\u610F", "potency":[ { "amount":-20, "type":"DamageReceivedMultiplier" } ] },
+        { "49D":"\u7EA2\u83B2\u6781\u610F", "potency":[ { "amount":0, "amountbyte":2, "type":"damagedonemultiplier" } ] },
+        { "4A1":"\u4E49\u7ED3\u91D1\u5170\uFF1A\u653B\u51FB", "potency":[ { "amount":5, "type":"damagedonemultiplier" } ] },
+        { "49c":"\u91D1\u521A\u51B3\u610F", "timeproc":{ "maxticks":5, "potency":100, "type":"hot" } }
+    ]
+}
