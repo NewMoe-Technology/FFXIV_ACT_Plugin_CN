@@ -8,13 +8,13 @@
         { "8CF":"\u65CB\u98CE\u5203", "damage":[ { "potency":0 } ] },
         { "8CE":"\u8840\u96E8\u98DE\u82B1", "damage":[ { "potency":100 } ] },
         { "8C6":"\u65AD\u7EDD", "damage":[ { "potency":200 } ] },
-        { "4068":"\u516B\u5366\u65E0\u5203\u6740", "damage":[ { "combo":130, "potency":100 } ] },
+        { "4068":"\u516B\u5366\u65E0\u5203\u6740", "damage":[ { "combo":120, "potency":100 } ] },
         { "DEB":"\u5F3A\u7532\u7834\u70B9\u7A81", "damage":[ { "potency":0 } ] },
         { "DEE":"\u68A6\u5E7B\u4E09\u6BB5", "damage":[ { "potency":180 } ] },
         { "1CE9":"\u901A\u7075\u4E4B\u672F\u00B7\u5927\u867E\u87C6", "damage":[ { "potency":160 } ] },
         { "1CEA":"\u516D\u9053\u8F6E\u56DE", "damage":[ { "potency":0 } ] },
-        { "64AE":"\u6B8B\u5F71\u9570\u9F2C", "damage":[ { "potency":600, "targetindex":0 }, { "potency":300 } ] },
-        { "64B0":"\u5E7B\u5F71\u91CE\u69CC", "damage":[ { "potency":50 } ] },
+        { "64AE":"\u6B8B\u5F71\u9570\u9F2C", "damage":[ { "potency":600 } ] },
+        { "64B0":"\u5E7B\u5F71\u91CE\u69CC", "damage":[ { "potency":70 } ] },
         { "64B1":"\u6708\u5F71\u96F7\u517D\u722A", "damage":[ { "potency":700 } ] },
         { "64B2":"\u6708\u5F71\u96F7\u517D\u7259", "damage":[ { "potency":700 } ] },
         { "8D9":"\u98CE\u9B54\u624B\u91CC\u5251", "damage":[ { "potency":500 } ] },
@@ -25,11 +25,11 @@
         { "8DF":"\u6C34\u9041\u4E4B\u672F", "damage":[ { "potency":580 } ] },
         { "406B":"\u52AB\u706B\u706D\u5374\u4E4B\u672F", "damage":[ { "potency":600 } ] },
         { "406C":"\u51B0\u6676\u4E71\u6D41\u4E4B\u672F", "damage":[ { "potency":1300 } ] },
-        { "905d":"\u4ECB\u6BD2\u4E4B\u672F", "damage":[ { "potency":300, "targetindex":0 }, { "potency":225 } ] },
-        { "905e":"\u767E\u96F7\u94F3", "damage":[ { "potency":600, "targetindex":0 }, { "potency":300 } ] },
-        { "905f":"\u901A\u7075\u4E4B\u672F\u00B7\u867E\u87C6\u4ED9", "damage":[ { "potency":300 } ] },
+        { "905d":"\u4ECB\u6BD2\u4E4B\u672F", "damage":[ { "potency":225 } ] },
+        { "905e":"\u767E\u96F7\u94F3", "damage":[ { "potency":600 } ] },
+        { "905f":"\u901A\u7075\u4E4B\u672F\u00B7\u867E\u87C6\u4ED9", "damage":[ { "potency":260 } ] },
         { "9060":"\u662F\u751F\u706D\u6CD5", "damage":[ { "potency":0 } ] },
-        { "9061":"\u5929\u7406\u4EBA\u9053", "damage":[ { "potency":1100, "targetindex":0 }, { "potency":550 } ] }
+        { "9061":"\u5929\u7406\u4EBA\u9053", "damage":[ { "potency":1100 } ] }
     ],
     "job":"ninja",
     "statuseffects":[
@@ -38,7 +38,7 @@
         { "1F5":"\u571F\u9041\u4E4B\u672F", "timeproc":{ "damagetype":"physical", "maxticks":6, "potency":80, "type":"grounddamage" } },
         { "1F1":"\u751F\u6740\u4E88\u593A", "potency":[ { "amount":30, "limitto":"fuma shuriken,katon,raiton,hyoton,huton,doton,suiton,goka mekkyaku,hyosho ranryu", "type":"damagedonemultiplier" } ] },
         { "1e8":"\u6B8B\u5F71", "damageshield":{ "amount":20, "type":"TargetHpPercent" } },
-        { "potency":[ { "amount":5, "type":"DamageReceivedMultiplier" } ], "102000":null },
+        { "102000":"", "potency":[ { "amount":5, "type":"DamageReceivedMultiplier" } ] },
         { "f09":"\u4ECB\u6BD2\u4E4B\u672F", "potency":[ { "amount":5, "type":"DamageReceivedMultiplier" } ] }
     ]
 }

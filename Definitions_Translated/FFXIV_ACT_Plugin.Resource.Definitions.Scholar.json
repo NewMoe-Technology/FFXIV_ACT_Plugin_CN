@@ -32,7 +32,7 @@
         { "317":"\u8F6C\u5316", "potency":[ { "LimitToActionCategory":"Spell", "amount":20, "type":"HealDoneMultiplier" } ] },
         { "318":"\u5E94\u6025\u6218\u672F", "reactiveproc":{ "type":"HealOnHealCast" } },
         { "4C5":"\u8FDE\u73AF\u8BA1", "multiplier":[ { "amount":10, "type":"criticalreceived" } ] },
-        { "767":"\u86CA\u6BD2\u6CD5", "timeproc":{ "damagetype":"magic", "maxticks":10, "potency":75, "type":"dot" } },
+        { "767":"\u86CA\u6BD2\u6CD5", "timeproc":{ "damagetype":"magic", "maxticks":10, "potency":80, "type":"dot" } },
         { "a96":"\u751F\u547D\u56DE\u751F\u6CD5", "potency":[ { "amount":10, "type":"HealReceiveMultiplier" } ] },
         { "a98":"\u75BE\u98CE\u4E4B\u8BA1", "potency":[ { "amount":-10, "type":"damagereceivedmultiplier" } ] },
         { "798":"\u91CE\u6218\u6CBB\u7597\u9635", "timeproc":{ "maxticks":"5", "potency":"100", "type":"groundheal" } },

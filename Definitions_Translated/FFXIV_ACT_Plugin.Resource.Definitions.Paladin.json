@@ -1,13 +1,13 @@
 {
     "actions":[
-        { "damage":[ { "potency":220 } ], "09":null },
-        { "damage":[ { "combo":330, "potency":170 } ], "0F":null },
-        { "1CD5":"\u5168\u8680\u65A9", "damage":[ { "potency":100 } ] },
+        { "09":"", "damage":[ { "potency":220 } ] },
+        { "0F":"", "damage":[ { "combo":330, "potency":170 } ] },
+        { "1CD5":"\u5168\u8680\u65A9", "damage":[ { "potency":120 } ] },
         { "10":"\u76FE\u724C\u731B\u51FB", "damage":[ { "potency":100 } ] },
         { "18":"\u6295\u76FE", "damage":[ { "potency":100 } ] },
         { "15":"\u6218\u5973\u795E\u4E4B\u6012", "damage":[ { "combo":330, "potency":100 } ] },
         { "1D":"\u6DF1\u5965\u4E4B\u7075", "damage":[ { "potency":270 } ] },
-        { "4049":"\u65E5\u73E5\u65A9", "damage":[ { "combo":170, "potency":100 } ] },
+        { "4049":"\u65E5\u73E5\u65A9", "damage":[ { "combo":220, "potency":100 } ] },
         { "17":"\u5384\u8FD0\u6D41\u8F6C", "damage":[ { "potency":140 } ] },
         { "DD2":"\u6CA5\u8840\u5251", "damage":[ { "potency":700 } ] },
         { "DD4":"\u5723\u5149\u5E55\u5E18", "heal":[ { "potency":400 } ] },
@@ -25,8 +25,8 @@
         { "6496":"\u82F1\u52C7\u4E4B\u5251", "damage":[ { "potency":0 } ], "heal":[ { "potency":400 } ] },
         { "9036":"\u7948\u544A\u5251", "damage":[ { "potency":500 } ] },
         { "9037":"\u846C\u9001\u5251", "damage":[ { "potency":540 } ] },
-        { "9039":"\u7EDD\u5BF9\u7EDF\u6CBB", "damage":[ { "potency":580, "targetindex":0 }, { "potency":290 } ] },
-        { "903a":"\u8363\u8000\u4E4B\u5251", "damage":[ { "potency":1000, "targetindex":0 }, { "potency":500 } ] }
+        { "9039":"\u7EDD\u5BF9\u7EDF\u6CBB", "damage":[ { "potency":580, "targetindex":0 }, { "potency":232 } ] },
+        { "903a":"\u8363\u8000\u4E4B\u5251", "damage":[ { "potency":1000, "targetindex":0 }, { "potency":400 } ] }
     ],
     "job":"paladin",
     "statuseffects":[

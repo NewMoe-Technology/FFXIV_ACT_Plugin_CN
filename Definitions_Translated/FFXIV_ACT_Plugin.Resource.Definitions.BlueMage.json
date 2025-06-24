@@ -93,7 +93,7 @@
     "job":"blue mage",
     "statuseffects":[
         { "84D":"\u4EE5\u592A\u590D\u5236\uFF1A\u8FDB\u653B", "multiplier":[ { "amount":20, "type":"criticalhit" }, { "amount":20, "type":"directhit" } ] },
-        { "6B200":null, "timeproc":{ "damagetype":"magic", "maxticks":"10", "potency":"50", "type":"dot" } },
+        { "6B200":"", "timeproc":{ "damagetype":"magic", "maxticks":"10", "potency":"50", "type":"dot" } },
         { "6BB":"\u88C2\u4F24", "timeproc":{ "damagetype":"magic", "maxticks":"2", "potency":"40", "type":"dot" } },
         { "9BF":"\u5929\u4F7F\u7684\u70B9\u5FC3", "timeproc":{ "maxticks":"5", "potency":"200", "type":"hot" } },
         { "9C3":"\u82A5\u672B\u707C\u70E7", "timeproc":{ "maxticks":"5", "potency":"50", "type":"dot" } },
