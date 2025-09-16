@@ -14,7 +14,7 @@
         { "409D":"\u6B7B\u708E\u6CD5", "damage":[ { "potency":255 } ] },
         { "40A0":"\u5F02\u60F3\u7684\u7965\u5149", "heal":[ { "potency":320 } ] },
         { "40A3":"\u6170\u85C9", "heal":[ { "potency":250 } ] },
-        { "6509":"\u6781\u708E\u6CD5", "damage":[ { "potency":310 } ] },
+        { "6509":"\u6781\u708E\u6CD5", "damage":[ { "potency":320 } ] },
         { "650a":"\u88C2\u9635\u6CD5", "damage":[ { "potency":180 } ] },
         { "650b":"\u751F\u547D\u56DE\u751F\u6CD5", "heal":[ { "potency":0 } ] },
         { "322":"\u4ED9\u5149\u7684\u62E5\u62B1", "heal":[ { "potency":180 } ] },

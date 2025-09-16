@@ -21,7 +21,7 @@
         { "64b7":"\u767E\u9996\u9F99\u7259\u7BAD", "damage":[ { "potency":140 } ] },
         { "64b8":"\u7206\u7834\u7BAD", "damage":[ { "potency":300 }, { "potency":600, "targetindex":0 } ] },
         { "906f":"\u788E\u5FC3\u7BAD", "damage":[ { "potency":180 } ] },
-        { "9070":"\u5171\u9E23\u7BAD", "damage":[ { "potency":600, "targetindex":0 }, { "potency":300 } ] },
+        { "9070":"\u5171\u9E23\u7BAD", "damage":[ { "potency":640, "targetindex":0 }, { "potency":320 } ] },
         { "9071":"\u5149\u660E\u795E\u7684\u8FD4\u573A\u4F59\u97F3", "damage":[ { "potency":0 } ] }
     ],
     "job":"bard",

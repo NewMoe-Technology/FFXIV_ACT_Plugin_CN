@@ -18,7 +18,7 @@
         { "405D":"\u5C71\u5883\u9177\u5211", "damage":[ { "combo":150, "potency":100 } ] },
         { "405E":"\u9AD8\u8DF3", "damage":[ { "potency":400 } ] },
         { "405F":"\u9F99\u773C\u96F7\u7535", "damage":[ { "potency":320 } ] },
-        { "4060":"\u5760\u661F\u51B2", "damage":[ { "potency":840, "targetindex":0 }, { "potency":420 } ] },
+        { "4060":"\u5760\u661F\u51B2", "damage":[ { "potency":840, "targetindex":0 }, { "potency":504 } ] },
         { "64aa":"\u9F99\u773C\u82CD\u7A79", "damage":[ { "potency":130 } ] },
         { "64ab":"\u82CD\u7A79\u523A", "damage":[ { "combo":460, "potency":160 } ] },
         { "64ac":"\u6A31\u82B1\u7F2D\u4E71", "damage":[ { "potency":0 } ] },
@@ -27,7 +27,7 @@
         { "9059":"\u9F99\u708E\u5347", "damage":[ { "potency":550, "targetindex":0 }, { "potency":275 } ] },
         { "905a":"\u524D\u51B2\u523A", "damage":[ { "combo":340, "potency":130 } ] },
         { "905b":"\u87BA\u65CB\u51FB", "damage":[ { "combo":300, "potency":140 } ] },
-        { "905c":"\u6E21\u661F\u51B2", "damage":[ { "potency":1000, "targetindex":0 }, { "potency":500 } ] }
+        { "905c":"\u6E21\u661F\u51B2", "damage":[ { "potency":1000, "targetindex":0 }, { "potency":600 } ] }
     ],
     "job":"dragoon",
     "statuseffects":[

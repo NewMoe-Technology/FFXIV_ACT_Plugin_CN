@@ -25,12 +25,12 @@
         { "5f4f":"\u591C\u6E38\u9B42\u5207\u5272", "damage":[ { "potency":280 } ] },
         { "5f50":"\u591C\u6E38\u9B42\u9490\u5272", "damage":[ { "potency":100 } ] },
         { "5f41":"\u5927\u4E30\u6536", "damage":[ { "potency":0 } ] },
-        { "5f4e":"\u56E2\u5951", "damage":[ { "potency":1100, "targetindex":0 }, { "potency":660 } ] },
-        { "9069":"\u796D\u7272", "damage":[ { "potency":600, "targetindex":0 }, { "potency":360 } ] },
+        { "5f4e":"\u56E2\u5951", "damage":[ { "potency":1100, "targetindex":0 }, { "potency":880 } ] },
+        { "9069":"\u796D\u7272", "damage":[ { "potency":600, "targetindex":0 }, { "potency":480 } ] },
         { "906a":"\u7EDE\u51B3\u5904\u5211", "damage":[ { "potency":0 } ] },
         { "906b":"\u7F22\u6740\u5904\u5211", "damage":[ { "potency":0 } ] },
         { "906c":"\u65AD\u9996\u5904\u5211", "damage":[ { "potency":260 } ] },
-        { "906d":"\u5B8C\u4EBA", "damage":[ { "potency":1300, "targetindex":0 }, { "potency":780 } ] }
+        { "906d":"\u5B8C\u4EBA", "damage":[ { "potency":1300, "targetindex":0 }, { "potency":1040 } ] }
     ],
     "job":"reaper",
     "statuseffects":[
