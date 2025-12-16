@@ -45,7 +45,7 @@
         { "a37":"\u5747\u8861\u6CE8\u836FII", "timeproc":{ "maxticks":10, "potency":60, "type":"dot" } },
         { "bbb":"\u6574\u4F53\u8BBA", "potency":[ { "amount":-10, "type":"DamageReceivedMultiplier" } ] },
         { "d25":"\u6574\u4F53\u76FE", "damageshield":{ "amount":100, "type":"HealPercent" } },
-        { "a38":"\u5747\u8861\u6CE8\u836FIII", "timeproc":{ "maxticks":10, "potency":80, "type":"dot" } },
+        { "a38":"\u5747\u8861\u6CE8\u836FIII", "timeproc":{ "maxticks":10, "potency":85, "type":"dot" } },
         { "a3e":"\u6DF7\u5408", "potency":[ { "amount":20, "type":"healreceivemultiplier" } ] },
         { "a3f":"\u9B42\u7075\u98CE\u606F", "timeproc":{ "maxticks":1, "potency":600, "type":"groundheal" } },
         { "a2f":"\u5747\u8861\u8BCA\u65AD", "damageshield":{ "amount":180, "type":"HealPercent" } },

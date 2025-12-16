@@ -28,7 +28,7 @@
         { "6500":"\u8D64\u66B4\u98CE", "damage":[ { "potency":440 } ] },
         { "908c":"\u6FC0\u8361", "damage":[ { "potency":360 } ] },
         { "6502":"\u51B3\u65AD", "damage":[ { "potency":850, "targetindex":0 }, { "potency":383 } ] },
-        { "908d":"\u8346\u68D8\u73AF\u7ED5", "damage":[ { "potency":900, "targetindex":0 }, { "potency":405 } ] },
+        { "908d":"\u8346\u68D8\u73AF\u7ED5", "damage":[ { "potency":950, "targetindex":0 }, { "potency":405 } ] },
         { "908e":"\u663E\u8D35\u51B2\u51FB", "damage":[ { "potency":600, "targetindex":0 }, { "potency":270 } ] },
         { "908f":"\u5149\u8292\u56DB\u5C04", "damage":[ { "potency":1200, "targetindex":0 }, { "potency":540 } ] },
         { "1D67":"\u9B54\u56DE\u523A", "damage":[ { "potency":340 } ] },
@@ -41,7 +41,7 @@
     ],
     "job":"red mage",
     "statuseffects":[
-        { "4D7":"\u9F13\u52B1", "potency":[ { "amount":5, "limittodamagetype":"Magic", "type":"damagedonemultiplier" } ] },
+        { "4D7":"\u9F13\u52B1", "potency":[ { "amount":10, "limittodamagetype":"Magic", "type":"damagedonemultiplier" } ] },
         { "511":"\u9F13\u52B1", "potency":[ { "amount":5, "type":"damagedonemultiplier" } ] },
         { "7B3":"\u9B54\u5143\u5316", "potency":[ { "amount":5, "limittodamagetype":"Magic", "type":"damagedonemultiplier" } ] },
         { "4d6":"\u4FC3\u8FDB", "potency":[ { "amount":50, "limitto":"scatter,impact", "type":"DamageAddPotency" } ] },

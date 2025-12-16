@@ -23,7 +23,7 @@
         { "8DC":"\u51B0\u9041\u4E4B\u672F", "damage":[ { "potency":350 } ] },
         { "8dd":"\u98CE\u9041\u4E4B\u672F", "damage":[ { "potency":240 } ] },
         { "8DF":"\u6C34\u9041\u4E4B\u672F", "damage":[ { "potency":580 } ] },
-        { "406B":"\u52AB\u706B\u706D\u5374\u4E4B\u672F", "damage":[ { "potency":600 } ] },
+        { "406B":"\u52AB\u706B\u706D\u5374\u4E4B\u672F", "damage":[ { "potency":850 } ] },
         { "406C":"\u51B0\u6676\u4E71\u6D41\u4E4B\u672F", "damage":[ { "potency":1300 } ] },
         { "905d":"\u4ECB\u6BD2\u4E4B\u672F", "damage":[ { "potency":400 } ] },
         { "905e":"\u767E\u96F7\u94F3", "damage":[ { "potency":700 } ] },
